@@ -1,0 +1,16 @@
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\bin\Debug\net9.0-windows\Practica_16.exe
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\bin\Debug\net9.0-windows\Practica_16.deps.json
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\bin\Debug\net9.0-windows\Practica_16.runtimeconfig.json
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\bin\Debug\net9.0-windows\Practica_16.dll
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\bin\Debug\net9.0-windows\Practica_16.pdb
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.Form1.resources
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.csproj.GenerateResource.cache
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.AssemblyInfoInputs.cache
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.AssemblyInfo.cs
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.dll
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\refint\Practica_16.dll
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.pdb
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\Practica_16.genruntimeconfig.cache
+C:\Users\Usuario1\source\repos\Practica_16\Practica_16\obj\Debug\net9.0-windows\ref\Practica_16.dll
